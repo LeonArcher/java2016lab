@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+gradle/
+webdownloader.iml
+gradlew.bat
+gradlew
+build/
